@@ -2,7 +2,7 @@
 //  Tip_CalculatorTests.swift
 //  Tip CalculatorTests
 //
-//  Created by Tiffany Ng on 4/15/15.
+//  Created by Tiffany Ng on 8/21/15.
 //  Copyright (c) 2015 Tiffany Ng. All rights reserved.
 //
 
